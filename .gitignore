@@ -1,0 +1,6 @@
+.vs/
+BDTur/bin/
+BDTur/obj/
+*.cache
+*.exe
+*.pdb
